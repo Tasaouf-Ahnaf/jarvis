@@ -1,0 +1,7 @@
+echo ".venv/
+__pycache__/
+*.pyc
+.env
+GROQ/
+custom_sites.txt
+.DS_Store" > .gitignore
